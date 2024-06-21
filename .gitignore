@@ -1,0 +1,13 @@
+# Python specific
+venv/
+env/
+virtualenv/
+*.egg-info/
+*.egg/
+dist/
+build/
+.idea/
+.vscode/
+*.pyc
+*.pyo
+__pycache__/
